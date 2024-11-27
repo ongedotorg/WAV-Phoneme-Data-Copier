@@ -55,18 +55,3 @@ Both directories must maintain the same structure, and files must have matching 
 
 - **Me** - [http://onge.org](https://onge.org)  
 - **Valve Software [Source SDK 2013]** - [https://github.com/ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013)  
-- **Bing** for the cover
-
-[h2]Tips[/h2]
-[list]
-[*]Always backup your files before processing
-[*]Make sure your mod follows the same folder structure as the original game
-[*]The program will only process .wav files
-[*]Files must have identical names to be matched
-[/list]
-
-
-[h2]Credits[/h2]
-Me- [url=https://onge.org]http://onge.org[/url]
-Valve Software [Source SDK 2013] - [url=https://github.com/ValveSoftware/source-sdk-2013]https://github.com/ValveSoftware/source-sdk-2013[/url]
-Bing for the cover
